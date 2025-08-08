@@ -1,6 +1,6 @@
 ## Hi 👋
 <!-- Banner -->
-<img src="https://i.ibb.co/YFH6Ystd/git.png" alt="Anika Tabassum GitHub Banner" />
+<img src="https://i.ibb.co.com/hxgrgdxg/51350239267-54560763e6-b.jpg" alt="Anika Tabassum GitHub Banner" />
 
 ## 👋 Hi, I'm Anika Tabassum
 ### 🚀 MERN Stack Developer
