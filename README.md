@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/YFH6Ystd/git.png" alt="Anika Tabassum GitHub Banner" />
 
 ## 👋 Hi, I'm Anika Tabassum
-### 🚀 Frontend Developer
+### 🚀 MERN Stack Developer
 
 ---
 
