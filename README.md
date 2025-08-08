@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 <!-- Banner -->
 <img src="https://i.ibb.co/YFH6Ystd/git.png" alt="Anika Tabassum GitHub Banner" />
 
