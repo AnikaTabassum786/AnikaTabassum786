@@ -1,7 +1,9 @@
-## Hi 👋
+
 <!-- Banner -->
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/7xFMJ6Kv/6791107-1036-3.webp" alt="6791107 1036 3" border="0"></a>
+<p align="center">
+  <img src="https://i.ibb.co/7xFMJ6Kv/6791107-1036-3.webp" alt="Banner" width="900" />
+</p>
 
 ## 👋 Hi, I'm Anika Tabassum
 ### 🚀 Full Stack Developer
