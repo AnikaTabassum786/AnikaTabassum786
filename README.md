@@ -1,6 +1,7 @@
 ## Hi 👋
 <!-- Banner -->
-<img src="https://ibb.co/BHRWVSBL" alt="Anika Tabassum GitHub Banner" />
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7xFMJ6Kv/6791107-1036-3.webp" alt="6791107 1036 3" border="0"></a>
 
 ## 👋 Hi, I'm Anika Tabassum
 ### 🚀 Full Stack Developer
