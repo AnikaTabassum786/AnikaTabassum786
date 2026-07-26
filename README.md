@@ -2,7 +2,8 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://i.ibb.co/7xFMJ6Kv/6791107-1036-3.webp" alt="Banner" width="900" height="300" />
+  <!-- <img src="https://i.ibb.co/7xFMJ6Kv/6791107-1036-3.webp" alt="Banner" width="900" height="300" /> -->
+  <img src="https://i.ibb.co/B2HgjcNR/images-1.jpg" alt="images-1" border="0">
 </p>
 
 ## 👋 Hi, I'm Anika Tabassum
